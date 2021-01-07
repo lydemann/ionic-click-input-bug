@@ -1,0 +1,7 @@
+{
+  "name": "ionic-click-input-bug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
